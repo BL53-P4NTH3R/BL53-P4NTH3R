@@ -36,9 +36,9 @@ Hi 👋 My name is Abdusshakur Olabisi
 AI Engineer | Machine Learning Engineer | Computer Vision Engineer
 -------------------------------------------------------------------
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
--------------------------------------------------------------------
+<table>
+	<tr>
+		<td valign="top">
 
 I'm an AI Engineer focused on building end-to-end machine learning systems.  
 My work spans **computer vision, machine learning engineering, and AI applications** — from model training to deployment and production APIs.
@@ -50,6 +50,13 @@ I am currently building **PixelMind**, a 52-week AI project series focused on im
 * 🤖  I'm building **PixelMind — 52 Weeks of AI Projects**
 * 📊  I work on **Machine Learning, Computer Vision and AI Systems**
 * 🤝  I'm open to collaborating on **AI, ML and Computer Vision projects**
+
+		</td>
+		<td valign="top" width="420">
+			<img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+		</td>
+	</tr>
+</table>
 
 <a href="https://github.com/BL53-P4NTH3R" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/BL53-P4NTH3R?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
