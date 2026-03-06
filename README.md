@@ -48,18 +48,21 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 🌟 Let's Connect!
 ---
 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg) LinkedIn](https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/)
-
-
-
-
-
-
-<a href="https://x.com/blue_panther__" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/blue_panther__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20"/> LinkedIn
+</a> •
+<a href="https://x.com/blue_panther__">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20"/> X
+</a> •
+<a href="https://www.kaggle.com/olabisiabdusshakur">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="20"/> Kaggle
+</a> •
+<a href="#">
+📄 Portfolio
 </a>
+</p>
 
-<br clear="right"/>
 
 ### Skills
 
