@@ -33,19 +33,18 @@
 Hi 👋 My name is Abdusshakur Olabisi
 ===================================
 
-AI Engineer | Machine Learning Engineer | Computer Vision Engineer
--------------------------------------------------------------------
+Machine Learning Engineer | Computer Vision Engineer | AI Researcher Enthusiast
+-------------------------------------------------------------------------------
 
-<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 I'm an AI Engineer focused on building end-to-end machine learning systems.  
 My work spans **computer vision, machine learning engineering, and AI applications** — from model training to deployment and production APIs.
 
-I am currently building **PixelMind**, a 52-week AI project series focused on implementing real-world machine learning and deep learning systems.
 
 * 🌍  I'm based in Nigeria
-* 🧠  I'm currently learning **Advanced Deep Learning, Transformers, and Agentic AI**
-* 🤖  I'm building **PixelMind — 52 Weeks of AI Projects**
+* * ✉️  You can contact me at [th3bl53p4nth3r@gmail.com](mailto:th3bl53p4nth3r@gmail.com)
+* 🧠  I'm currently learning **Advanced Deep Learning, Transformers, and AI Research**
 * 📊  I work on **Machine Learning, Computer Vision and AI Systems**
 * 🤝  I'm open to collaborating on **AI, ML and Computer Vision projects**
 
@@ -59,39 +58,10 @@ I am currently building **PixelMind**, a 52-week AI project series focused on im
 
 <br clear="right"/>
 
-### 🚀 Projects
-
-**PixelMind — 52 Weeks of AI Projects**
-
-A long-term AI engineering project where I build machine learning and deep learning systems from scratch.
-
-Projects include:
-
-- Machine Learning pipelines
-- CNN image classifiers
-- Computer Vision applications
-- Transfer learning systems
-- AI deployment pipelines
-- Web apps for ML models
-
-**EtanaFX**
-
-AI-powered trading assistant built for USD/XAU trading.
-
-My work involved:
-
-- Machine learning feature engineering
-- predictive modeling
-- building ML pipelines
-- deploying models via **FastAPI**
-
----
-
-### 🧠 Skills
+### Skills
 
 
 <p align="left">
-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
@@ -139,7 +109,6 @@ My work involved:
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"/>
 </a>
-
 </p>
 
 
