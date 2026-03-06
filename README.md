@@ -99,7 +99,7 @@ Languages and Tools
     </td>
     <td align="center">
       <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="36" height="36" alt="FastAPI"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>
       </a>
     </td>
     <td align="center">
