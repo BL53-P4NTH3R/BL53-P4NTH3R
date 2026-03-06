@@ -36,20 +36,24 @@ Hi 👋 I'm Abdusshakur Olabisi
 AI/ML Engineer | Computer Vision Engineer | AI Researcher Enthusiast
 ---
 
-
 I'm an AI Engineer focused on building end-to-end machine learning systems.  
 My work spans **computer vision, machine learning engineering, and AI applications** — from model training to deployment and production APIs.
 
+*   I'm based in Nigeria
+*   I'm currently learning **Advanced Deep Learning, Transformers, and AI Research**
+*   I work on **Machine Learning, Computer Vision and AI Systems**
+*   I'm open to collaborating on **AI, ML and Computer Vision projects**
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [th3bl53p4nth3r@gmail.com](mailto:th3bl53p4nth3r@gmail.com)
-* 🧠  I'm currently learning **Advanced Deep Learning, Transformers, and AI Research**
-* 📊  I work on **Machine Learning, Computer Vision and AI Systems**
-* 🤝  I'm open to collaborating on **AI, ML and Computer Vision projects**
 
-<a href="https://github.com/BL53-P4NTH3R" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/BL53-P4NTH3R?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+🌟 Let's Connect!
+---
+
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg) LinkedIn](https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/)
+
+
+
+
+
 
 <a href="https://x.com/blue_panther__" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/blue_panther__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
