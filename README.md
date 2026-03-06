@@ -36,6 +36,8 @@ Hi 👋 My name is Abdusshakur Olabisi
 AI Engineer | Machine Learning Engineer | Computer Vision Engineer
 -------------------------------------------------------------------
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 I'm an AI Engineer focused on building end-to-end machine learning systems.  
 My work spans **computer vision, machine learning engineering, and AI applications** — from model training to deployment and production APIs.
 
