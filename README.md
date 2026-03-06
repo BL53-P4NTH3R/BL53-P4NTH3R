@@ -130,6 +130,10 @@ Languages and Tools
   </tr>
 </table>
 
+✍️ Blog
+---
+
+[Medium](https://medium.com/@blue-panther) <br>
 
 
 📊 Badges
