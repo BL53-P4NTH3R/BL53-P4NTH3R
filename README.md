@@ -137,10 +137,9 @@ Languages and Tools
 
 <div align="center">
   <b>My GitHub Stats</b><br><br>
-
   <p align="center">
     <a href="https://github.com/BL53-P4NTH3R" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=BL53-P4NTH3R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=BL53-P4NTH3R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/BL53-P4NTH3R" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BL53-P4NTH3R&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -149,7 +148,7 @@ Languages and Tools
 
   <p align="center">
     <a href="https://github.com/BL53-P4NTH3R" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL53-P4NTH3R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BL53-P4NTH3R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
     </a>
   </p>
 
