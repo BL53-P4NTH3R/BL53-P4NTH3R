@@ -48,28 +48,29 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 🌟 Let's Connect!
 ---
 
-<div align="left">
-
+<p>
 <a href="https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</p>
 
+<p>
 <a href="https://x.com/blue_panther__">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="18"/> X
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="18"/>
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</p>
 
+<p>
 <a href="https://www.kaggle.com/olabisiabdusshakur">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="20"/> Kaggle
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</p>
 
+<p>
 <a href="#">
   📄 Portfolio
 </a>
-
-</div>
+</p>
 
 
 ### Skills
