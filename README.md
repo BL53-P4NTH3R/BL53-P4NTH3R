@@ -56,7 +56,7 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 
 <p>
 <a href="https://x.com/blue_panther__">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="18"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="18"/> x.com
 </a>
 </p>
 
@@ -68,7 +68,7 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 
 <p>
 <a href="#">
-  📄 Portfolio
+  🌐 Portfolio
 </a>
 </p>
 
