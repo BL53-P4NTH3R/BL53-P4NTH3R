@@ -30,20 +30,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelakun1999&" alt="adelakun1999" /></p> -->
 
-Hi 👋 My name is Abdusshakur Olabisi
-===================================
+Hi 👋 I'm Abdusshakur Olabisi
+==============================
 
-Machine Learning Engineer | Computer Vision Engineer | AI Researcher Enthusiast
--------------------------------------------------------------------------------
+AI/ML Engineer | Computer Vision Engineer | AI Researcher Enthusiast
+---
 
-<!-- <img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 I'm an AI Engineer focused on building end-to-end machine learning systems.  
 My work spans **computer vision, machine learning engineering, and AI applications** — from model training to deployment and production APIs.
 
 
 * 🌍  I'm based in Nigeria
-* * ✉️  You can contact me at [th3bl53p4nth3r@gmail.com](mailto:th3bl53p4nth3r@gmail.com)
+* ✉️  You can contact me at [th3bl53p4nth3r@gmail.com](mailto:th3bl53p4nth3r@gmail.com)
 * 🧠  I'm currently learning **Advanced Deep Learning, Transformers, and AI Research**
 * 📊  I work on **Machine Learning, Computer Vision and AI Systems**
 * 🤝  I'm open to collaborating on **AI, ML and Computer Vision projects**
