@@ -48,20 +48,28 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 🌟 Let's Connect!
 ---
 
-<p align="left">
+<div align="left">
+
 <a href="https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20"/> LinkedIn
-</a> •
-<a href="https://x.com/blue_panther__">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20"/> X
-</a> •
-<a href="https://www.kaggle.com/olabisiabdusshakur">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="20"/> Kaggle
-</a> •
-<a href="#">
-📄 Portfolio
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
 </a>
-</p>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://x.com/blue_panther__">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="18"/> X
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/olabisiabdusshakur">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="20"/> Kaggle
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="#">
+  📄 Portfolio
+</a>
+
+</div>
 
 
 ### Skills
