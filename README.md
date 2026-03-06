@@ -17,7 +17,7 @@ My work spans **computer vision, machine learning engineering, and AI applicatio
 ---
 
 <p>
-<a href="https://www.linkedin.com/in/olabisi-abdusshakur-3986b3219/">
+<a href="https://www.linkedin.com/in/blue-panther/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
 </a>
 </p>
