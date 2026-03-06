@@ -132,23 +132,30 @@ Languages and Tools
 
 
 
- 📊 Badges
- ---
+📊 Badges
+---
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <b>My GitHub Stats</b><br><br>
 
-<a href="http://www.github.com/BL53-P4NTH3R">
-<img src="https://github-readme-stats.vercel.app/api?username=BL53-P4NTH3R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-</a>
+  <p align="center">
+    <a href="https://github.com/BL53-P4NTH3R" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=BL53-P4NTH3R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/BL53-P4NTH3R" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BL53-P4NTH3R&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
 
-<a href="http://www.github.com/BL53-P4NTH3R">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BL53-P4NTH3R&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-</a>
+  <p align="center">
+    <a href="https://github.com/BL53-P4NTH3R" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL53-P4NTH3R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+    </a>
+  </p>
 
-<a href="https://github.com/BL53-P4NTH3R">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL53-P4NTH3R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"/>
-</a>
-
-<a href="http://www.github.com/BL53-P4NTH3R">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BL53-P4NTH3R&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true"/>
-</a>
+  <p align="center">
+    <a href="https://github.com/BL53-P4NTH3R" target="_blank">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=BL53-P4NTH3R&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    </a>
+  </p>
+</div>
